@@ -1,4 +1,6 @@
 # motion-flow-syn
+
+python version of Motion flow
 Motion flow and corresponding blurry image synthesis. This package is used to generate training data for the paper:
 
 <small>*From Motion Blur to Motion Flow: a Deep Learning Solution for Removing Heterogeneous Motion Blur  
